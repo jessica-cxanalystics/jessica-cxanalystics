@@ -40,4 +40,4 @@ Principais KPIs de operações de atendimento, entre outros:
 - 🔜 **Dashboard de performance (Power BI)**: AHT, FCR, NPS e CSAT por canal e motivo de contato, com análise de impacto, desvio e causa raiz
 
 ## 📫 Contato
-[LinkedIn](linkedin.com/in/jéssica-s-578219237)
+[LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-s-578219237)
